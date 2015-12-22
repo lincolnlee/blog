@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      "Markdown handbook"
-subtitle:   "nil"
+title:      "Markdown 语法手册"
+subtitle:   ""
 date:       2015-12-21 16:36:00
 author:     "lincoln"
 header-img: "img/post-bg-01.jpg"
 ---
-# Markdown 语法简明手册
+# Markdown 语法手册
  
 ### 1. 使用 * 和 ** 表示斜体和粗体
  
