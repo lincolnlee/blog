@@ -9,9 +9,13 @@ header-img: "img/post-bg-01.jpg"
 
 #Docker实战
 ###安装Docker
+
     # yum install docker
+    
 ###验证docker是否安装正确
+
     # docker run hello-world
+    
 执行报错  
 
     Post http:///var/run/docker.sock/v1.20/containers/create: dial unix /var/run/docker.sock: no such file or directory.
