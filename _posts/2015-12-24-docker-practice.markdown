@@ -13,7 +13,7 @@ header-img: "img/post-bg-01.jpg"
 
     # yum install docker
     
-###验证docker是否安装正确
+###验证Docker是否安装正确
 
     # docker run hello-world
     
