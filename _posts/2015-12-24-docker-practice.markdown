@@ -24,7 +24,7 @@ header-img: "img/post-bg-01.jpg"
     * Is your docker daemon up and running?
 
 解决方案  
-![issue]({{ site.baseurl }}/img/post-sample-image.jpg)
+![issue]({{ site.baseurl }}/img/does_not_start_docker_after_installation.png)
 
     service docker start
 
