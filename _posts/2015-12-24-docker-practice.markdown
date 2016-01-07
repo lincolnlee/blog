@@ -28,7 +28,7 @@ header-img: "img/post-bg-01.jpg"
 
     service docker start
 
-###验证Docker安装是否正确
+###再次验证Docker是否安装正确
 
     # docker run hello-world
     
@@ -59,3 +59,11 @@ header-img: "img/post-bg-01.jpg"
 
     For more examples and ideas, visit:
      https://docs.docker.com/userguide/
+
+命令未找到hello-world镜像，自动从仓库中下载一个回来。  
+
+下载的镜像元数据保存的位置为:
+
+    /var/lib/docker/graph/
+    
+每个镜像会生成一个唯一的ID
