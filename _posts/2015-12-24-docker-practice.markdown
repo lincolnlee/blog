@@ -7,13 +7,13 @@ author:     "lincoln"
 header-img: "img/post-bg-01.jpg"
 ---
 
-#Docker实战
+# Docker实战
 
-###安装Docker
+### 安装Docker
 
     # yum install docker
     
-###验证Docker是否安装正确
+### 验证Docker是否安装正确
 
     # docker run hello-world
     
@@ -28,7 +28,7 @@ header-img: "img/post-bg-01.jpg"
 
     service docker start
 
-###再次验证Docker是否安装正确
+### 再次验证Docker是否安装正确
 
     # docker run hello-world
     
